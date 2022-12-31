@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700&family=Poppins:wght@300;400;700&display=swap');
+.page{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.QrReader{
+	text-align: center;
+	position: relative;
+	margin-top: 20vh;
+}
+h2{
+	color: white;
+	font-family: poppins;
+	font-weight: 300;
+}
+.result{
+	font-family: poppins;
+	font-weight: 300;
+	position: relative;
+	top: 20vh;
+	font-size: 3vh;
+	color: lightblue;
+	text-decoration: none;
+}
